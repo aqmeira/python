@@ -1,2 +1,2 @@
 # python
-sped iccmss
+sped icms
