@@ -1,4 +1,4 @@
-arquivo = open('santaclara102021.txt','r+')
+arquivo = open('arquivo.txt','r+')
 
 novoArquivo = []
 
